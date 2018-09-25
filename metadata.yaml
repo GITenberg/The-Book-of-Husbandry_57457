@@ -1,0 +1,27 @@
+_repo: The-Book-of-Husbandry_57457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzherbert, Anthony
+    gutenberg_agent_id: '49396'
+    url: http://www.gutenberg.org/2009/agents/49396
+  editor:
+    agent_name: Skeat, Walter William
+    birthdate: 1866
+    deathdate: 1953
+    gutenberg_agent_id: '42770'
+    url: http://www.gutenberg.org/2009/agents/42770
+    wikipedia: https://en.wikipedia.org/wiki/Walter_William_Skeat_(anthropologist)
+description: ''
+gutenberg_issued: '2018-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Book of Husbandry
+url: http://www.gutenberg.org/ebooks/57457
